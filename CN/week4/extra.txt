@@ -1,0 +1,5 @@
+https://www.base64decode.org/
+https://www.lifewire.com/base64-encoding-overview-1166412
+https://www.binaryhexconverter.com/binary-to-ascii-text-converter
+https://www.herongyang.com/Encoding/Base64-Encoding-Algorithm.html
+https://www.geeksforgeeks.org/decode-encoded-base-64-string-ascii-string/

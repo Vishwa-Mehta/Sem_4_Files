@@ -1,0 +1,7 @@
+1. Fibb series and store in an array.
+2. find smallest number in array of n 32-bit nos.
+3. multiply 2 matrices of order 3 -> c[i][j] = c[i][j] + a[i][j] *b[i][j]
+	- use MLA instr
+	- use MUL instr
+4. transfer block of 256 words stored at memory location X to mem location Y using load multiple and store multiple. the rate of transfer in 32 bytes
+

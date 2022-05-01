@@ -1,0 +1,8 @@
+- Application -> Shell -> Kernel -> Hardware
+- Different types of shells:
+	- ksh
+	- zsh
+	- bash
+	- bsh
+	- fish
+- shells are used as interface to communicate to the kernel

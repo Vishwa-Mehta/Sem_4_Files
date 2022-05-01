@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "b27c9704dd84380b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a3dddfba068eec1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "U2/Class 2-3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d6b51564bfe594c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c98f6a4fcf9adec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a60f3459d0a3a6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e095a9384b3c46d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e24628eea5db39d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d505bccaa805ac3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fd90f002e2a32cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "U2/Class 2-3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a3dddfba068eec1",
+  "lastOpenFiles": [
+    "U2/Class 2-3.md",
+    "U2/Class 4.md",
+    "U2/Class 1.md",
+    "U2/unit3 questions.md",
+    "U2/Unit 2 assignment questions.md",
+    "Biz comm.md"
+  ]
+}

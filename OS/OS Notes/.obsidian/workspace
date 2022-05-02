@@ -7,12 +7,8 @@
         "id": "4b4849a5272866d9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Unit 3/abc.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/abc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "4b4849a5272866d9",
   "lastOpenFiles": [
+    "Unit 3/abc 1.md",
     "Unit 3/abc.md",
     "Unit 3/14-03-22.md",
     "Unit 3/11-03-22.md",
@@ -97,7 +93,6 @@
     "Unit 1/Class 4.md",
     "Unit 1/Class 7.md",
     "Unit 1/Class 2.md",
-    "Unit 1/Class 3.md",
-    "Unit 1/Class 6.md"
+    "Unit 1/Class 3.md"
   ]
 }

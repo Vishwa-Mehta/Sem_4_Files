@@ -4,7 +4,7 @@
 -> Directly based on problem statement and definition involved <br>
 -> One of the easiest method to apply <br>
 -> Brute force search AKA **Exhaustive Search**. <br>
-	-> enumerates all possible candidates for solutions. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-> enumerates all possible candidates for solutions. <br>
 -> Ex:
 - Brute force method to find divisors for a natural number 'n' will be:
 	- enumerate all numbers from 1 - n
@@ -15,7 +15,7 @@
 - Brute force search -> linear search <br>
 -> Used when:
 - Problem size is limited <br>
--> Brute forse SORTING ALGORITHMS: 
+-> Brute force SORTING ALGORITHMS: 
 O(n<sup>2</sup>)
 - Selection Sort
 - Bubble Sort

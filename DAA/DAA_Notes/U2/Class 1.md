@@ -54,4 +54,9 @@ for i <- 0 to n - 2 do
 	Total Swaps = 6 <br>
 - Sorting algorithm is stable if it preserves the positions/order of the original (equal) elements
 - Swaps = order(n)
-2. 8,4,6,6,2,3,1 (repeating elements)
+2. 8,4,6,6,2,3,1 (repeating elements)<br>
+	1 4 6<sub>1</sub> 6<sub>2</sub> 2 3 8 : swap = 1 <br>
+	1 2 6<sub>1</sub> 6<sub>2</sub> 4 3 8 : swap = 2 <br>
+	1 2 3 6<sub>2</sub> 4 6<sub>1</sub> 8 : swap = 3 <br>
+	1 2 3 4 6<sub>2</sub> 6<sub>1</sub> 8 : swap = 4 <br>
+	Total Swaps = 4

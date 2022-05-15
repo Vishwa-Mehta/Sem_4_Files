@@ -6,8 +6,8 @@
 - Total subsets = 2<sup>n</sup> - 1 (excluding {}) 
 - Exclude the ones which exceed 'W'
 - Select the one with the max value out of the remaining
-![[Pasted image 20220211094401.png]]
-![[Pasted image 20220211094906.png]]
-![[Pasted image 20220211095828.png]]
-![[Pasted image 20220211100545.png]]
-![[Pasted image 20220211101612.png]]
+![img1](./3.png)
+![[4.png]]
+![[5.png]]
+![[6.png]]
+![[8.png]]

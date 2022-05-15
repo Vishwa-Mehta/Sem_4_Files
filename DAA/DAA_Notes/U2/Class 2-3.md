@@ -16,7 +16,7 @@ for i <- 0 to n - 2 do
 #### Analysis:
 - Main Operation: Comparision
 - Input Size: n
-![[Pasted image 20220209083730.png]]
+![bubble sort complexity](./2.png)
 #### Example:
 1. 89 45 68 90 29 34 17
 	**45 89** 68 90 29 34 17 : swap = 1

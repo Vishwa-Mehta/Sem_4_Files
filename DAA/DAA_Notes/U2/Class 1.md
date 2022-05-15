@@ -40,7 +40,7 @@ for i <- 0 to n - 2 do
 #### Analysis:
 - Main operation: Comparision
 - Input size: n
-!(./1.png)
+![complexity calculation for selection sort](./1.png)
 (n-1) - (i+1) - 1 = (n - 1 - i) = n(n-2 - 0 + 1) - (n - 2 - 0 + 1) - ((n - 2)<sup>2</sup> / 2) = n<sup>2</sup> - n - n + 1 -     n<sup>2</sup>/2 + 2n + 1 = n<sup>2</sup>/2 + 2
 #### Example:
 1. 8,4,6,9,2,3,1 <br>

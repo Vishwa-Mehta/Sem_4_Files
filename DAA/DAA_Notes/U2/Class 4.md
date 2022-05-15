@@ -7,7 +7,7 @@
 - Exclude the ones which exceed 'W'
 - Select the one with the max value out of the remaining
 ![img1](./3.png) <br>
-![[4.png]] <br>
-![[5.png]]<br>
-![[6.png]]<br>
-![[7.png]] <br>
+![img2](./4.png)<br>
+![img3](./5.png)<br>
+![img4](./6.png)<br>
+![img5](./7.png) <br>

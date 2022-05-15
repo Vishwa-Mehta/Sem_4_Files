@@ -15,7 +15,7 @@ for i <- 0 to n - 2 do
 ```
 #### Analysis:
 - Main Operation: Comparision
-- Input Size: n
+- Input Size: n <br>
 ![bubble sort complexity](./2.png)
 #### Example:
 1. 89 45 68 90 29 34 17

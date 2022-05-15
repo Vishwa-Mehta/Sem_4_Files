@@ -12,13 +12,14 @@
 - 8 queens puzzle:
 	- examine all enumerations (possibilities) of the 8 queens
 	- (8x8)<sup>8</sup> possibilities, very inefficient
-- Brute force search -> linear search <br>
+
+- Brute force search -> linear search
 -> Used when:
-- Problem size is limited <br>
--> Brute force SORTING ALGORITHMS: 
-O(n<sup>2</sup>)
-- Selection Sort
-- Bubble Sort
+	- Problem size is limited <br>
+-> Brute force SORTING ALGORITHMS: O(n<sup>2</sup>)
+	- Selection Sort
+	- Bubble Sort
+
 ### Selection Sort:
 #### Idea:
 - Scan the array -> find its smallest element -> swap it with the first element
